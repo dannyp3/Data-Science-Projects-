@@ -3,3 +3,8 @@ This is a collection of Data Science Projects I am starting. Purposes could be a
 
 
 1. Speech Emotion Recognition
+
+
+Other Ideas:
+
+- Traffic Sign Recognition
